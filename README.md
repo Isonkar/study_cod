@@ -1,4 +1,4 @@
-# study_cod
+# study_code
 my_code
 
 ******************************
