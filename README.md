@@ -1,5 +1,10 @@
 # study_code
 my_code
+******************************
+requests and Tranlation//
+load text, use requests, translate text en -> ru. 
+
+******************************
 Нужно почитать ссылку:
 https://pythonru.com/biblioteki/parsing-na-python-s-beautiful-soup?ysclid=lfkqnuz5u4997695131
 
