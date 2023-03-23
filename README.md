@@ -1,5 +1,8 @@
 # study_code
 my_code
+Нужно почитать ссылку:
+https://pythonru.com/biblioteki/parsing-na-python-s-beautiful-soup?ysclid=lfkqnuz5u4997695131
+
 
 ******************************
 work_with_file_2//
