@@ -8,6 +8,7 @@ load text, use requests, translate text en -> ru.
 Нужно почитать ссылку:
 https://pythonru.com/biblioteki/parsing-na-python-s-beautiful-soup?ysclid=lfkqnuz5u4997695131
 
+on line  -> https://replit.com/
 
 ******************************
 work_with_file_2//
