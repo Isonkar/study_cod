@@ -5,7 +5,7 @@ with open('dataset.txt') as data:
 txt = requests.get(url)
 while True:
   if not txt.text.startswith('We'):
-    txt = requests.get('https://stepic.org/media/attachments/course67/3.6.3/699991.txt' + txt.text)
+    txt = requests.get('https://stepic.org/media/attachments/course67/3.6.3/' + txt.text)
   else:
     print(txt.text)
     break
