@@ -1,0 +1,11 @@
+import requests
+
+with open('dataset.txt') as data:
+  url = data.readline().strip()
+txt = requests.get(url)
+while True:
+  if not txt.text.startswith('We'):
+    txt = requests.get('https://stepic.org/media/attachments/course67/3.6.3/699991.txt' + txt.text)
+  else:
+    print(txt.text)
+    break
