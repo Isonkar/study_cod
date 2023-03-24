@@ -9,3 +9,6 @@ while True:
   else:
     print(txt.text)
     break
+
+with open('dataout.txt', 'w') as out:
+  out.write(txt.text)
