@@ -137,6 +137,9 @@ https://pythonru.com/biblioteki/parsing-na-python-s-beautiful-soup?ysclid=lfkqnu
 
 on line  -> https://replit.com/
 
+Про NumPy и matplotlib
+https://pyprog.pro/
+
 ******************************
 work_with_file_2//
 Имеется файл с данными по успеваемости абитуриентов. Он представляет из себя набор строк, где в каждой строке записана следующая информация:
