@@ -4,3 +4,10 @@ print('<' if a < b else '>' if a > b else '=')
 
 d = int(input()) - int(input())
 print('<=>'[(d >= 0) + (d > 0)])
+
+
+
+a, b, c = int(input()), int(input()), int(input())
+print(a if b < a > c else b if a < b > c else c )
+
+#выводит максимальное число из 3х введенных
