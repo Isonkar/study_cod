@@ -1,2 +1,6 @@
 a, b = (int(input()) for _ in 'xx')
 print('<' if a < b else '>' if a > b else '=')
+
+
+d = int(input()) - int(input())
+print('<=>'[(d >= 0) + (d > 0)])
