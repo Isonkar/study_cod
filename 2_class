@@ -1,0 +1,13 @@
+class Buffer:
+    def __init__(self):
+        self.lst = []
+
+    def add(self, *a):
+        self.lst += a
+        while len(self.lst) >= 5:
+
+            print(sum(self.lst[:5]))
+            self.lst = self.lst[5:]
+
+    def get_current_part(self):
+        return self.lst
